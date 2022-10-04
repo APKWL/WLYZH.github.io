@@ -11,5 +11,5 @@ citation:
 The determination of the angular rate of a tumbling asteroid is shown. This approach estimates the angular velocity vector of the
 asteroid by fusing the propagated kinematic motion model and asteroid image salient features. 
 Data fusion is performed via an Extended Kalman filter. \
-[PDF](http://academicpages.github.io/files/paper1.pdf), [Publication](https://doi.org/10.2514/6.2018-5353)
+[\[PDF\]](http://academicpages.github.io/files/paper1.pdf), [\[Publication\]](https://doi.org/10.2514/6.2018-5353)
 
